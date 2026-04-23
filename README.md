@@ -14,11 +14,11 @@ A modern contact management app with Firebase authentication & real-time databas
 
 <div align="center">
   <h3>
-    <a href="https://firebase-movie-app-umitdev.netlify.app/">
+    <a href="https://contacts-app-umitdev.netlify.app">
       🖥️ Live Demo
     </a>
      | 
-    <a href="https://github.com/Umit8098/React-Project-Firebase-Movie-App.git">
+    <a href="https://github.com/umitarat-dev/Contacts-App.git">
       📂 Repository
     </a>
   </h3>
@@ -180,10 +180,10 @@ src/
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Umit8098/React-Project-Firebase-Movie-App.git
+$ git clone https://github.com/umitarat-dev/Contacts-App.git
 
 # Navigate into the project folder
-$ cd React-Project-Firebase-Movie-App
+$ cd Contacts-App
 
 # Install dependencies
 yarn  
