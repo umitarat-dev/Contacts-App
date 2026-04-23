@@ -25,7 +25,7 @@ A modern contact management app with Firebase authentication & real-time databas
 </div>
 
 <p align="center">
-  <a href="https://github.com/umitarat-dev/Contacts-App.git">
+  <a href="https://contacts-app-umitdev.netlify.app">
     <img src="assets/firecontact-app.gif" alt="Firecontact App" width="800"/>
   </a>>
 </p>
