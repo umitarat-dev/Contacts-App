@@ -39,7 +39,7 @@ A modern contact management app with Firebase authentication & real-time databas
   - [🔐 Google Authentication Note](#-google-authentication-note)
 - [📌 About This Project](#-about-this-project)
 - [🙏 Acknowledgements](#-acknowledgements)
-- [📬 Contact](#-contact)
+- [📬 Contact Information](#-contact-information)
 
 ---
 
@@ -245,10 +245,10 @@ konularını gerçek bir uygulama senaryosu üzerinden pekiştirmek amacıyla ge
 
 ---
 
-## 📬 Contact
+## 📬 Contact Information
 
-<!-- - Website [your-website.com](https://{your-web-site-link}) -->
-- GitHub [@Umit8098](https://github.com/Umit8098)
+I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
-- Linkedin [@umit-arat](https://linkedin.com/in/umit-arat/)
-<!-- - Twitter [@your-twitter](https://{twitter.com/your-username}) -->
+* **LinkedIn:** [linkedin.com/in/umit-arat](https://www.linkedin.com/in/umit-arat/)
+* **Email:** [umitarat8098@gmail.com](mailto:umitarat8098@gmail.com)
+* **GitHub:** [github.com/umitarat-dev](https://github.com/umitarat-dev) (Current Workspace)
