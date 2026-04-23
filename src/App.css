@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  /* align-items: flex-start; */
+  justify-content: center;
+  min-height: 100vh;
+  background-image: url('https://picsum.photos/1600/900');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Layout */
+.layout {
+  display: flex;
+  gap: 2rem;
+
+  max-width: 1200px;
+  width: 100%;
+  padding: 1rem;
+
+  margin: 0 auto;              /* 👈 TÜM BLOĞU ORTALA */
+  justify-content: center;     /* 👈 YATAYDA ORTALA */
+  align-items: flex-start;     /* 👈 ÜSTTEN AYNI HİZADAN BAŞLAT */
+}
+
+/* Responsive */
+@media (max-width: 1000px) {
+  .layout {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+
+/* UI helpers */
+.edit {
+  cursor: pointer;
+  color: green;
+}
+
+.delete {
+  cursor: pointer;
+  color: red;
+}
+
+
+
+
+.contact-header {
+  font-family: 'Girassol', cursive;
+  background-color: white;
+  /* padding: 10px; */
+  /* border-radius: 5px; */
+}
+
+.brand {
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+
+
+
+.nothing-found {
+  color: red;
+}
+
+.table {
+  min-width: 500px;
+}
+
+
