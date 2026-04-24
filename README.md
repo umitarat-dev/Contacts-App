@@ -26,7 +26,7 @@ A modern contact management app with Firebase authentication & real-time databas
 
 <p align="center">
   <a href="https://contacts-app-umitdev.netlify.app">
-    <img src="assets/firecontact-app.gif" alt="Firecontact App" width="800"/>
+    <img src="assets/firecontact-app.gif" alt="Firecontact App" width="700"/>
   </a>>
 </p>
 
